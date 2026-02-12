@@ -45,27 +45,45 @@ Follow the steps below to set up and run the project on your system.
 
 ```bash
 git clone https://github.com/your-username/number-guess-game.git
+```
 
-2️⃣ Navigate to the Project Directory
+## 2️⃣ Navigate to the Project Directory
+```bash
 cd number-guess-game
+```
+
 
 3️⃣ Create a Virtual Environment (Recommended)
+```bash
 python -m venv venv
 Activate the environment:
+```
 
 Windows
+```bash
 venv\Scripts\activate
+```
+
 
 Mac/Linux
+```bash
 source venv/bin/activate
+```
 
 4️⃣ Install Required Dependencies
+```bash
 pip install -r requirements.txt
+```
+
 
 5️⃣ Run the Streamlit Application
+```bash
 streamlit run app.py
+```
 
 6️⃣ Open in Browser
 Visit:
+```bash
 http://localhost:8501
 The application will launch in your default browser.
+```
