@@ -4,6 +4,7 @@ A clean and interactive **Number Guessing Game** built using **Python and Stream
 The application challenges users to guess a randomly generated number between **1 and 100**, providing real-time feedback and tracking the number of attempts.
 
 This project demonstrates:
+
 - Python fundamentals
 - State management in Streamlit
 - UI design principles
@@ -48,11 +49,13 @@ git clone https://github.com/your-username/number-guess-game.git
 ```
 
 ## 2️⃣ Navigate to the Project Directory
+
 ```bash
 cd number-guess-game
 ```
 
 ## 3️⃣ Create a Virtual Environment (Recommended)
+
 ```bash
 python -m venv venv
 Activate the environment:
@@ -65,17 +68,19 @@ source venv/bin/activate
 ```
 
 ## 4️⃣ Install Required Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-
 ## 5️⃣ Run the Streamlit Application
+
 ```bash
 streamlit run app.py
 ```
 
 ## 6️⃣ Open in Browser
+
 ```bash
 http://localhost:8501
 The application will launch in your default browser.
