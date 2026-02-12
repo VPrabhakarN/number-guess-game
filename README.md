@@ -53,35 +53,31 @@ cd number-guess-game
 ```
 
 
-3️⃣ Create a Virtual Environment (Recommended)
+##3️⃣ Create a Virtual Environment (Recommended)
 ```bash
 python -m venv venv
 Activate the environment:
-```
 
-Windows
-```bash
+#Windows
 venv\Scripts\activate
-```
 
-
-Mac/Linux
-```bash
+#Mac/Linux
 source venv/bin/activate
 ```
 
-4️⃣ Install Required Dependencies
+
+##4️⃣ Install Required Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 
-5️⃣ Run the Streamlit Application
+##5️⃣ Run the Streamlit Application
 ```bash
 streamlit run app.py
 ```
 
-6️⃣ Open in Browser
+##6️⃣ Open in Browser
 Visit:
 ```bash
 http://localhost:8501
