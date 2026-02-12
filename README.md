@@ -38,3 +38,5 @@ This project is beginner-friendly and a great way to learn Python, Streamlit, an
 
 ```bash
 git clone https://github.com/your-username/number-guess-game.git
+
+## 2️⃣ Navigate to the Project Directory
