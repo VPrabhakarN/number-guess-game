@@ -13,8 +13,6 @@ This project is beginner-friendly and a great way to learn Python, Streamlit, an
 👉 [Click here to play the game](https://number-guess-game-01.streamlit.app/  )
 
 
-*(Replace this link with your actual Streamlit app URL after deployment.)*
-
 ---
 
 ## ✨ Features  
