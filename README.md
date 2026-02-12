@@ -76,7 +76,6 @@ streamlit run app.py
 ```
 
 ## 6️⃣ Open in Browser
-Visit:
 ```bash
 http://localhost:8501
 The application will launch in your default browser.
