@@ -1,8 +1,8 @@
-import streamlit as st
+import streamlit as st # type: ignore
 import random
 import time
 
-# ---------- Page Setup ----------
+# ---------- Page Setup ----------  
 st.set_page_config(
     page_title="Guess Game 🎯",
     page_icon="🎯",
