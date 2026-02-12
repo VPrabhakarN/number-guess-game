@@ -10,7 +10,7 @@ This project is beginner-friendly and a great way to learn Python, Streamlit, an
 ## 🚀 Live Demo  
 
 👉 **Play the game here:**  
-https://your-app-name.streamlit.app  
+https://number-guess-game-01.streamlit.app/  
 
 *(Replace this link with your actual Streamlit app URL after deployment.)*
 
