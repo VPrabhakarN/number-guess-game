@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game — Streamlit Web Application  
+# 🎯 Number Guessing Game | Streamlit Web Application  
 
 A clean and interactive **Number Guessing Game** built using **Python and Streamlit**.  
 The application challenges users to guess a randomly generated number between **1 and 100**, providing real-time feedback and tracking the number of attempts.
